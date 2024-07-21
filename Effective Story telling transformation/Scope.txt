@@ -1,0 +1,1 @@
+This project involves a real comparative analysis of the real estate market in the city of Thessaloniki. The goal is to enhance and present the report more effectively using visualization techniques.
